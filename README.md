@@ -1,4 +1,4 @@
-# Isac Araújo
+# Isac Araujo
 
 Estudante do ensino médio (conclusão em 2026).  
 Atualmente trabalho com design e estou migrando para desenvolvimento web, backend e automação.
