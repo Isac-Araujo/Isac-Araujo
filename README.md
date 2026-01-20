@@ -1,16 +1,18 @@
-## Hi there 👋
+# Isac Araújo
 
-<!--
-**Isac-Araujo/Isac-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do ensino médio (conclusão em 2026).  
+Atualmente trabalho com design e estou migrando para desenvolvimento web, backend e automação.
 
-Here are some ideas to get you started:
+## O que estou construindo agora
+- Portfólio web do zero
+- Sistemas simples de captação e organização de leads
+- Base sólida em web, cloud e segurança
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias (em evolução)
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Linux (WSL)
+- Node.js (básico)
+
+## Objetivo
+Construir projetos reais, bem documentados, que resolvem problemas simples de negócios.
